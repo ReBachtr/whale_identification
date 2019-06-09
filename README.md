@@ -1,4 +1,5 @@
-# whale_identification
+# whale_identification 
+## Group Blackwell
 ## The demo file is [whale_identification_demo.ipynb](https://github.com/ReBachtr/whale_identification/blob/master/whale_identification_demo.ipynb)
 ## There are trained-models should be download before running.
 ### Trained models should be download to [./model/](https://github.com/ReBachtr/whale_identification/tree/master/model) 
